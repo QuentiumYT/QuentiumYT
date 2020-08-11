@@ -40,6 +40,6 @@ I'm a 18 years old french developer, passionate about automation, software and w
 <a href="https://www.paypal.me/QuentiumYT/1" title="PayPal">
   <img align="left" alt="PayPal" width="40px" src="https://quentium.fr/+img/footer/paypal.png" />
 </a>
-<a href="mailto:support@quentium.fr?subject=[GitHub]%20Contact%20for%20..." title="Mail">
+<a href="mailto:pro@quentium.fr?subject=[GitHub]%20Contact%20for%20..." title="Mail">
   <img align="left" alt="Mail" width="40px" src="https://quentium.fr/+img/footer/mail.png" />
 </a>
