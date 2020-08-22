@@ -11,10 +11,10 @@ I'm a 18 years old french developer, passionate about automation, software and w
 
 ## 🚀 Languages and tools:
 
-<code><img height="30" src="https://cv.quentium.fr/img/python.png" title="Python 3.7"></code>
+<code><img height="30" src="https://cv.quentium.fr/img/python.png" title="Python 3.8"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/HTML.png" title="HTML 5"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/CSS.png" title="CSS 3"></code>
-<code><img height="30" src="https://cv.quentium.fr/img/JS.png" title="JavaScript"></code>
+<code><img height="30" src="https://cv.quentium.fr/img/JS.png" title="JavaScript ES5+"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/PHP.png" title="PHP 7.4"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/SQL.png" title="MySQL"></code>
 
@@ -25,7 +25,7 @@ I'm a 18 years old french developer, passionate about automation, software and w
 
 ## 🔗 Social networks:
 
-<a href="https://quentium.fr/" title="Website">
+<a href="https://quentium.fr" title="Website">
   <img align="left" alt="Website" width="40px" src="https://quentium.fr/+img/footer/www.png" />
 </a>
 <a href="https://discord.gg/5sehgXx" title="Discord">
