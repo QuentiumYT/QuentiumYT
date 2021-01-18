@@ -1,11 +1,17 @@
-### 👋 Hey, I'm [QuentiumYT](https://cv.quentium.fr)!
+# 👋 Hey, I'm [QuentiumYT](https://cv.quentium.fr)!
 
 I'm a 19 years old french developer, passionate about automation, software and web development.
 
 <a href="https://github.com/QuentiumYT?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuentiumYT&theme=algolia&icon_color=7eace9&show_icons=true&include_all_commits=true&count_private=true&line_height=28" alt="QuentiumYT's GitHub Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's Wakatime Week Stats">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=QuentiumYT&theme=algolia&icon_color=7eace9&show_icons=true&include_all_commits=true&count_private=true&line_height=28" alt="QuentiumYT's GitHub Stats">
+    </p>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's Wakatime Week Stats">
+    </p>
 </a>
 
 
@@ -22,6 +28,7 @@ I'm a 19 years old french developer, passionate about automation, software and w
 <code><img height="30" src="https://cv.quentium.fr/img/git.png" title="Git"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/wamp.png" title="Wamp"></code>
+
 
 ## 🔗 Social networks:
 
