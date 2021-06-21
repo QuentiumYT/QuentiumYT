@@ -12,6 +12,9 @@ I'm a 19 years old french developer, passionate about automation, software and w
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's Wakatime Week Stats">
     </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=QuentiumYT&theme=algolia" alt="QuentiumYT's Wakatime Week Stats">
+    </p>
 </a>
 
 
