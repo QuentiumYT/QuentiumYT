@@ -13,10 +13,12 @@ I'm a 19 years old french developer, passionate about automation, software and w
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's Wakatime Week Stats">
     </p>
     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=QuentiumYT&theme=algolia" alt="QuentiumYT's Wakatime Week Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=QuentiumYT&theme=algolia" alt="QuentiumYT's Streak Stats">
+    </p>
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app?username=QuentiumYT&theme=algolia" alt="QuentiumYT's GitHub Trophies">
     </p>
 </a>
-
 
 ## 🚀 Languages and tools:
 
@@ -31,7 +33,6 @@ I'm a 19 years old french developer, passionate about automation, software and w
 <code><img height="30" src="https://cv.quentium.fr/img/git.png" title="Git"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/github_desktop.png" title="GitHub desktop"></code>
 <code><img height="30" src="https://cv.quentium.fr/img/wamp.png" title="Wamp"></code>
-
 
 ## 🔗 Social networks:
 
@@ -53,7 +54,6 @@ I'm a 19 years old french developer, passionate about automation, software and w
 <a href="mailto:pro@quentium.fr?subject=[GitHub]%20Contact%20for%20..." title="Mail">
     <img alt="Mail" width="40px" src="https://quentium.fr/+img/footer/mail.png">
 </a>
-
 
 ## 📌 Pinned repositories:
 
