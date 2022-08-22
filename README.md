@@ -9,17 +9,17 @@ I'm a 20 years old french 🇫🇷 developer, passionate about automation, softw
         <img src="https://github-readme-stats.vercel.app/api?username=QuentiumYT&theme=algolia&icon_color=7eace9&show_icons=true&include_all_commits=true&count_private=true&line_height=28" alt="QuentiumYT's GitHub Stats">
     </p>
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
     </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's WakaTime Week Stats">
     </p>
-    <p align="center">
+    <!-- <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=QuentiumYT&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=42DDA7" alt="QuentiumYT's Streak Stats">
-    </p>
-      <p align="center">
+    </p> -->
+    <!-- <p align="center">
         <img src="https://activity-graph.herokuapp.com/graph?username=QuentiumYT&theme=github-light&bg_color=050f2c&color=00aeff" alt="QuentiumYT's Streak Stats">
-    </p>
+    </p> -->
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=QuentiumYT&theme=algolia&title=Organizations,Stars,Commits,PullRequest,Repositories,Stars,Issues" alt="QuentiumYT's GitHub Trophies">
     </p>
@@ -67,6 +67,12 @@ I edited all of them to fit the viewbox, have the same size and a maximum compre
     <a href="https://github.com/QuentiumYT/Cloudflare-Firewall-Rules-Web">
         <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=Cloudflare-Firewall-Rules-Web&theme=algolia&icon_color=7eace9">
     </a>
+    <a href="https://github.com/QuentiumYT/WikiWorld">
+        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-Website&theme=algolia&icon_color=7eace9">
+    </a>
+    <a href="https://github.com/QuentiumYT/TimeToEat">
+        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-V2-Website&theme=algolia&icon_color=7eace9">
+    </a>
     <a href="https://github.com/QuentiumYT/QuentiumBot">
         <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=QuentiumBot&theme=algolia&icon_color=7eace9">
     </a>
@@ -84,11 +90,5 @@ I edited all of them to fit the viewbox, have the same size and a maximum compre
     </a>
     <a href="https://github.com/QuentiumYT/TreeMaker">
         <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=TreeMaker&theme=algolia&icon_color=7eace9">
-    </a>
-    <a href="https://github.com/QuentiumYT/WikiWorld">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=WikiWorld&theme=algolia&icon_color=7eace9">
-    </a>
-    <a href="https://github.com/QuentiumYT/TimeToEat">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=TimeToEat&theme=algolia&icon_color=7eace9">
     </a>
 </p>
