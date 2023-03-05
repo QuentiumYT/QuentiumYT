@@ -29,18 +29,22 @@ I'm a 21 years old french 🇫🇷 developer, passionate about automation, softw
 
 | Key              | Value                                                     |
 |------------------|-----------------------------------------------------------|
-| Main languages   | <code><img height="30" src="./svg/Python.svg" title="Python 3"></code> <code><img height="30" src="./svg/PHP.svg" title="PHP 8"></code> <code><img height="30" src="./svg/JavaScript.svg" title="JavaScript ES5 / ES6"></code> <code><img height="30" src="./svg/HTML.svg" title="HTML 5"></code> <code><img height="30" src="./svg/CSS.svg" title="CSS 3"></code> |
-| Personal stacks  | <code><img height="30" src="./svg/NodeJS.svg" title="NodeJS 18"></code> <code><img height="30" src="./svg/TypeScript.svg" title="TypeScript 4"></code> <code><img height="30" src="./svg/AlpineJS.svg" title="AlpineJS 3"></code> <code><img height="30" src="./svg/Sass.svg" title="SCSS / SASS 1 (dart)"></code> <code><img height="30" src="./svg/TailwindCSS.svg" title="TailwindCSS 3"></code> |
-| Main frameworks  | <code><img height="30" src="./svg/Flask.svg" title="Flask 2"></code> <code><img height="30" src="./svg/Laravel.svg" title="Laravel 9"></code> <code><img height="30" src="./svg/React.svg" title="React 18"></code> |
-| Known frameworks | <code><img height="30" src="./svg/Symfony.svg" title="Symfony 6"></code> <code><img height="30" src="./svg/Angular.svg" title="Angular 13"></code> <code><img height="30" src="./svg/SailsJS.svg" title="SailsJS 1"></code> |
+| Main languages   | <code><img height="30" src="./svg/Python.svg" title="Python 3.11"></code> <code><img height="30" src="./svg/PHP.svg" title="PHP 8.2"></code> <code><img height="30" src="./svg/JavaScript.svg" title="JavaScript ES6"></code> <code><img height="30" src="./svg/HTML.svg" title="HTML 5"></code> <code><img height="30" src="./svg/CSS.svg" title="CSS 3"></code> |
+| Personal stacks  | <code><img height="30" src="./svg/NodeJS.svg" title="NodeJS 19"></code> <code><img height="30" src="./svg/TypeScript.svg" title="TypeScript 4"></code> <code><img height="30" src="./svg/AlpineJS.svg" title="AlpineJS 3"></code> <code><img height="30" src="./svg/Sass.svg" title="SCSS / SASS 1"></code> <code><img height="30" src="./svg/TailwindCSS.svg" title="TailwindCSS 3"></code> |
+| Main frameworks  | <code><img height="30" src="./svg/Laravel.svg" title="Laravel 10"></code> <code><img height="30" src="./svg/React.svg" title="React 18"></code> <code><img height="30" src="./svg/Flask.svg" title="Flask 2"></code> |
+| Known frameworks | <code><img height="30" src="./svg/Symfony.svg" title="Symfony 6"></code> <code><img height="30" src="./svg/AngularJS.svg" title="AngularJS 1.8"></code> <code><img height="30" src="./svg/SailsJS.svg" title="SailsJS 1.5"></code> |
 | Syntax knowledge | <code><img height="30" src="./svg/Bash.svg" title="Bash"> <code><img height="30" src="./svg/Lua.svg" title="Lua"></code> <code><img height="30" src="./svg/C.svg" title="C"></code> <code><img height="30" src="./svg/CS.svg" title="C#"></code> |
-| Storage          | <code><img height="30" src="./svg/MariaDB.svg" title="MariaDB"></code> <code><img height="30" src="./svg/MySQL.svg" title="MySQL"></code> <code><img height="30" src="./svg/CSV.svg" title="CSV / TSV / XLSX"></code> |
+| Storage          | <code><img height="30" src="./svg/MariaDB.svg" title="MariaDB 10.11"></code> <code><img height="30" src="./svg/MySQL.svg" title="MySQL 8"></code> <code><img height="30" src="./svg/CSV.svg" title="> 1M lines"></code> |
 | Tools            | <code><img height="30" src="./svg/Visual_Studio_Code.svg" title="Visual Studio Code"></code> <code><img height="30" src="./svg/Microsoft_Visual_Studio.svg" title="Microsoft Visual Studio"></code> <code><img height="30" src="./svg/Docker.svg" title="Docker"></code> <code><img height="30" src="./svg/Git.svg" title="Git"></code> <code><img height="30" src="./svg/GitHub_Desktop.svg" title="GitHub desktop"></code> <code><img height="30" src="./svg/Insomnia.svg" title="Insomnia"></code> <code><img height="30" src="./svg/Figma.svg" title="Figma"></code> |
 | OS               | <code><img height="30" src="./svg/Mint.svg" title="Mint Una 20.3"></code> <code><img height="30" src="./svg/Ubuntu.svg" title="Ubuntu Jammy 22.04"></code> <code><img height="30" src="./svg/Debian.svg" title="Debian / Raspbian Bullseye 11"></code> <code><img height="30" src="./svg/Windows.svg" title="Windows 10"></code> |
 
 <!--
+The versions are the ones I'm using, most of them are latest assuming I'm having the latest features to work with.
+-->
+
+<!--
 All these logos were taken from their official website or wikipedia.
-I edited all of them to fit the viewbox, have the same size and a maximum compression. It was a lot of work.
+I edited all of them to fit the viewbox, have the same size and a maximum compression.
 -->
 
 ## 🔗 Social networks:
