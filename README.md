@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=4000&vCenter=true&width=600&lines=Welcome+to+my+profile!;%F0%9F%92%BB+Full+stack+developper;%F0%9F%A4%96+Passionnate+about+automation;%F0%9F%93%96+Always+learning+new+things)](https://git.io/typing-svg)
 
-I'm a 21 years old french 🇫🇷 developer, passionate about automation, software and web development.
+I'm a 22 years old french 🇫🇷 developer, passionate about automation, software and web development.
 
 <a href="https://github.com/QuentiumYT?tab=repositories">
     <p align="center">
