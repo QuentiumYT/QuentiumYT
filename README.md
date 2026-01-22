@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=4000&vCenter=true&width=600&lines=Welcome+to+my+profile!;%F0%9F%92%BB+Full+stack+developper;%F0%9F%A4%96+Passionnate+about+automation;%F0%9F%93%96+Always+learning+new+things)](https://git.io/typing-svg)
 
-I'm a 23 years old french 🇫🇷 developer, passionate about automation, software and web development.
+I'm a 24 years old french 🇫🇷 developer, passionate about automation, software and web development.
 
 <a href="https://github.com/QuentiumYT?tab=repositories">
     <p align="center">
@@ -18,7 +18,7 @@ I'm a 23 years old french 🇫🇷 developer, passionate about automation, softw
         <img src="https://streak-stats.demolab.com/?user=QuentiumYT&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=42DDA7" alt="QuentiumYT's Streak Stats">
     </p>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=QuentiumYT&theme=algolia&row=1" alt="QuentiumYT's GitHub Trophies">
+        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=QuentiumYT&theme=algolia&row=1" alt="QuentiumYT's GitHub Trophies">
     </p>
 </a>
 
@@ -26,11 +26,11 @@ I'm a 23 years old french 🇫🇷 developer, passionate about automation, softw
 
 | Key              | Value                                                     |
 |------------------|-----------------------------------------------------------|
-| Main languages   | <code><img height="30" src="./svg/Python.svg" title="Python 3.13"></code> <code><img height="30" src="./svg/PHP.svg" title="PHP 8.4"></code> <code><img height="30" src="./svg/JavaScript.svg" title="JavaScript ES6+"></code> <code><img height="30" src="./svg/HTML.svg" title="HTML 5"></code> <code><img height="30" src="./svg/CSS.svg" title="CSS 3"></code> |
+| Main languages   | <code><img height="30" src="./svg/Python.svg" title="Python 3.14"></code> <code><img height="30" src="./svg/PHP.svg" title="PHP 8.5"></code> <code><img height="30" src="./svg/JavaScript.svg" title="JavaScript ES6+"></code> <code><img height="30" src="./svg/HTML.svg" title="HTML 5"></code> <code><img height="30" src="./svg/CSS.svg" title="CSS 3"></code> |
 | Main frameworks  | <code><img height="30" src="./svg/Laravel.svg" title="Laravel 10"></code> <code><img height="30" src="./svg/Vue.svg" title="Vue 3"></code> <code><img height="30" src="./svg/React.svg" title="React 17"></code> <code><img height="30" src="./svg/Flask.svg" title="Flask 3"></code> |
-| Known frameworks | <code><img height="30" src="./svg/Symfony.svg" title="Symfony 6"></code> <code><img height="30" src="./svg/AngularJS.svg" title="AngularJS 1.8"></code> <code><img height="30" src="./svg/SailsJS.svg" title="SailsJS 1.5"></code> |
-| CMS knowledge | <code><img height="30" src="./svg/WordPress.svg" title="WordPress 6.7"></code> <code><img height="30" src="./svg/Drupal.svg" title="Drupal 10"></code> <code><img height="30" src="./svg/PrestaShop.svg" title="PrestaShop 8"></code> |
-| Used stacks  | <code><img height="30" src="./svg/NodeJS.svg" title="NodeJS 23"></code> <code><img height="30" src="./svg/TypeScript.svg" title="TypeScript 5"></code> <code><img height="30" src="./svg/AlpineJS.svg" title="AlpineJS 3"></code> <code><img height="30" src="./svg/Sass.svg" title="Dart SASS 1"></code> <code><img height="30" src="./svg/TailwindCSS.svg" title="Tailwind CSS 3"></code> |
+| Known frameworks | <code><img height="30" src="./svg/Symfony.svg" title="Symfony 6.4"></code> <code><img height="30" src="./svg/AngularJS.svg" title="AngularJS 1.8"></code> <code><img height="30" src="./svg/SailsJS.svg" title="SailsJS 1.5"></code> |
+| CMS knowledge | <code><img height="30" src="./svg/WordPress.svg" title="WordPress 6.9"></code> <code><img height="30" src="./svg/Drupal.svg" title="Drupal 11"></code> <code><img height="30" src="./svg/PrestaShop.svg" title="PrestaShop 8"></code> |
+| Used stacks  | <code><img height="30" src="./svg/NodeJS.svg" title="NodeJS 25"></code> <code><img height="30" src="./svg/TypeScript.svg" title="TypeScript 5"></code> <code><img height="30" src="./svg/AlpineJS.svg" title="AlpineJS 3"></code> <code><img height="30" src="./svg/Sass.svg" title="Dart SASS 1"></code> <code><img height="30" src="./svg/TailwindCSS.svg" title="Tailwind CSS 3"></code> |
 | Syntax knowledge | <code><img height="30" src="./svg/Bash.svg" title="Bash"> <code><img height="30" src="./svg/Lua.svg" title="Lua"></code> <code><img height="30" src="./svg/C.svg" title="C"></code> <code><img height="30" src="./svg/CS.svg" title="C#"></code> <code><img height="30" src="./svg/Java.svg" title="Java"></code> |
 | Storage          | <code><img height="30" src="./svg/MariaDB.svg" title="MariaDB 11"></code> <code><img height="30" src="./svg/MySQL.svg" title="MySQL 8"></code> <code><img height="30" src="./svg/CSV.svg" title="> 1M lines"></code> |
 | Tools            | <code><img height="30" src="./svg/Visual_Studio_Code.svg" title="Visual Studio Code"></code> <code><img height="30" src="./svg/Microsoft_Visual_Studio.svg" title="Microsoft Visual Studio"></code> <code><img height="30" src="./svg/Docker.svg" title="Docker"></code> <code><img height="30" src="./svg/Git.svg" title="Git"></code> <code><img height="30" src="./svg/GitHub_Desktop.svg" title="GitHub desktop"></code> <code><img height="30" src="./svg/Insomnia.svg" title="Insomnia"></code> <code><img height="30" src="./svg/Figma.svg" title="Figma"></code> |
