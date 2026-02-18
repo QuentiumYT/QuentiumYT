@@ -6,13 +6,13 @@ I'm a 24 years old french 🇫🇷 developer, passionate about automation, softw
 
 <a href="https://github.com/QuentiumYT?tab=repositories">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=QuentiumYT&theme=algolia&icon_color=7eace9&show_icons=true&show=prs_merged&include_all_commits=true&count_private=true&line_height=28" alt="QuentiumYT's GitHub Stats">
+        <img src="https://github-stats-extended.vercel.app/api?username=QuentiumYT&theme=algolia&icon_color=7eace9&show_icons=true&show=prs_merged&include_all_commits=true&count_private=true&line_height=28" alt="QuentiumYT's GitHub Stats">
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=QuentiumYT&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's GitHub Languages">
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Quentium&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's WakaTime Week Stats">
+        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Quentium&theme=algolia&layout=compact&langs_count=10" alt="QuentiumYT's WakaTime Week Stats">
     </p>
     <p align="center">
         <img src="https://streak-stats.demolab.com/?user=QuentiumYT&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=42DDA7" alt="QuentiumYT's Streak Stats">
@@ -62,41 +62,41 @@ I edited all of them to fit the viewbox, have the same size and a maximum compre
 <p align="center">
     <p>Linked projects with the library communicating with a Flask website (available on PyPI)</p>
     <a href="https://github.com/QuentiumYT/Cloudflare-Firewall-Rules">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=Cloudflare-Firewall-Rules&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=Cloudflare-Firewall-Rules&theme=algolia&icon_color=7eace9">
     </a>
     <a href="https://github.com/QuentiumYT/Cloudflare-Firewall-Rules-Web">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=Cloudflare-Firewall-Rules-Web&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=Cloudflare-Firewall-Rules-Web&theme=algolia&icon_color=7eace9">
     </a>
     <p></p>
     <p>School projects for grade managements, V1 is a 100% custom code, V2 is made in Laravel</p>
     <a href="https://github.com/NoteUniv/NoteUniv-Website">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-Website&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-Website&theme=algolia&icon_color=7eace9">
     </a>
     <a href="https://github.com/NoteUniv/NoteUniv-V2-Website">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-V2-Website&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=NoteUniv&repo=NoteUniv-V2-Website&theme=algolia&icon_color=7eace9">
     </a>
     <p></p>
     <p>Bots for Discord, first is using the old command listener, the second is using the new API with slash commands</p>
     <a href="https://github.com/QuentiumYT/QuentiumBot">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=QuentiumBot&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=QuentiumBot&theme=algolia&icon_color=7eace9">
     </a>
     <a href="https://github.com/QuentiumYT/RandoBot">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=RandoBot&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=RandoBot&theme=algolia&icon_color=7eace9">
     </a>
     <p></p>
     <p>JavaScript library to handle cron tasks with a GUI (published on npmjs), the other is a registry for Docker images written in AngularJS</p>
     <a href="https://github.com/QuentiumYT/CronInputUI">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=CronInputUI&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=CronInputUI&theme=algolia&icon_color=7eace9">
     </a>
     <a href="https://github.com/QuentiumYT/Docker-Registry-Web">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=Docker-Registry-Web&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=Docker-Registry-Web&theme=algolia&icon_color=7eace9">
     </a>
     <p></p>
     <p>Big school projects, first is a full react app with a ton of Instagram like features, second is a custom PHP MVC for managing Need For Speed World cars</p>
     <a href="https://github.com/QuentiumYT/Instalike">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=Instalike&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=Instalike&theme=algolia&icon_color=7eace9">
     </a>
     <a href="https://github.com/QuentiumYT/WikiWorld">
-        <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin?username=QuentiumYT&repo=WikiWorld&theme=algolia&icon_color=7eace9">
+        <img align="center" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=QuentiumYT&repo=WikiWorld&theme=algolia&icon_color=7eace9">
     </a>
 </p>
