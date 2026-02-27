@@ -18,7 +18,7 @@ I'm a 24 years old french 🇫🇷 developer, passionate about automation, softw
         <img src="https://streak-stats.demolab.com/?user=QuentiumYT&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=42DDA7" alt="QuentiumYT's Streak Stats">
     </p>
     <p align="center">
-        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=QuentiumYT&theme=algolia&row=1" alt="QuentiumYT's GitHub Trophies">
+        <img src="https://github-profile-repo.vercel.app/?username=QuentiumYT&theme=algolia&row=1" alt="QuentiumYT's GitHub Trophies">
     </p>
 </a>
 
